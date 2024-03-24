@@ -14,10 +14,8 @@ Install this project with pip
 
 ## Project Output Demo
 
-![Test Image 1](https://github.com/alaminbhuyan/Which-Bollywood-Celebrity-Are-You_/blob/master/img/Screenshot_1.jpg?raw=true)
-![Test Image 2](https://github.com/alaminbhuyan/Which-Bollywood-Celebrity-Are-You_/blob/master/img/Screenshot_2.jpg?raw=true)
-
-![Test Image 3](https://github.com/alaminbhuyan/Which-Bollywood-Celebrity-Are-You_/blob/master/img/Screenshot_3.jpg?raw=true)
+![Test Image 1](https://github.com/alaminbhuyan/Image-Caption-Generation/blob/master/contents/Screenshot_1.png)
+![Test Image 2](https://github.com/alaminbhuyan/Image-Caption-Generation/blob/master/contents/Screenshot_2.png)
 
 [Image to Semaintics AI Model](https://huggingface.co/Salesforce/blip-image-captioning-large)
 [Semaintics to Caption Generate AI Model](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
