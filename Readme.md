@@ -18,4 +18,5 @@ Install this project with pip
 ![Test Image 2](https://github.com/alaminbhuyan/Image-Caption-Generation/blob/master/contents/Screenshot_2.png)
 
 [Image to Semaintics AI Model](https://huggingface.co/Salesforce/blip-image-captioning-large)
+
 [Semaintics to Caption Generate AI Model](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
